@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\bin\Debug\netcoreapp3.1\11-Desafio.exe
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\bin\Debug\netcoreapp3.1\11-Desafio.deps.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\bin\Debug\netcoreapp3.1\11-Desafio.runtimeconfig.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\bin\Debug\netcoreapp3.1\11-Desafio.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\bin\Debug\netcoreapp3.1\11-Desafio.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\bin\Debug\netcoreapp3.1\11-Desafio.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\obj\Debug\netcoreapp3.1\11-Desafio.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\obj\Debug\netcoreapp3.1\11-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\obj\Debug\netcoreapp3.1\11-Desafio.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\obj\Debug\netcoreapp3.1\11-Desafio.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\obj\Debug\netcoreapp3.1\11-Desafio.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\obj\Debug\netcoreapp3.1\11-Desafio.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\obj\Debug\netcoreapp3.1\11-Desafio.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\11-Desafio\obj\Debug\netcoreapp3.1\11-Desafio.genruntimeconfig.cache

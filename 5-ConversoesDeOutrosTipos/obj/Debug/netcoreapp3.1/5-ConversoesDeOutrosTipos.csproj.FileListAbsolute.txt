@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\bin\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.exe
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\bin\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.deps.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\bin\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.runtimeconfig.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\bin\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\bin\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\bin\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\obj\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\obj\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\obj\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\obj\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\obj\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\obj\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\obj\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\5-ConversoesDeOutrosTipos\obj\Debug\netcoreapp3.1\5-ConversoesDeOutrosTipos.genruntimeconfig.cache

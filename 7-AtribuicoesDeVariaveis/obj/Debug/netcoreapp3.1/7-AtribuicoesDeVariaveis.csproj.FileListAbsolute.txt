@@ -1,0 +1,13 @@
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.exe
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.deps.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\7-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\7-AtribuicoesDeVariaveis.genruntimeconfig.cache

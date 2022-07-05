@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\bin\Debug\netcoreapp3.1\12-Poupanca.exe
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\bin\Debug\netcoreapp3.1\12-Poupanca.deps.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\bin\Debug\netcoreapp3.1\12-Poupanca.runtimeconfig.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\bin\Debug\netcoreapp3.1\12-Poupanca.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\bin\Debug\netcoreapp3.1\12-Poupanca.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\bin\Debug\netcoreapp3.1\12-Poupanca.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\obj\Debug\netcoreapp3.1\12-Poupanca.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\obj\Debug\netcoreapp3.1\12-Poupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\obj\Debug\netcoreapp3.1\12-Poupanca.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\obj\Debug\netcoreapp3.1\12-Poupanca.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\obj\Debug\netcoreapp3.1\12-Poupanca.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\obj\Debug\netcoreapp3.1\12-Poupanca.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\obj\Debug\netcoreapp3.1\12-Poupanca.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\12-Poupanca\obj\Debug\netcoreapp3.1\12-Poupanca.genruntimeconfig.cache

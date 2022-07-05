@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\bin\Debug\netcoreapp3.1\6-CaracteresETextos.exe
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\bin\Debug\netcoreapp3.1\6-CaracteresETextos.deps.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\bin\Debug\netcoreapp3.1\6-CaracteresETextos.runtimeconfig.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\bin\Debug\netcoreapp3.1\6-CaracteresETextos.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\bin\Debug\netcoreapp3.1\6-CaracteresETextos.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\bin\Debug\netcoreapp3.1\6-CaracteresETextos.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\obj\Debug\netcoreapp3.1\6-CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\obj\Debug\netcoreapp3.1\6-CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\obj\Debug\netcoreapp3.1\6-CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\obj\Debug\netcoreapp3.1\6-CaracteresETextos.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\obj\Debug\netcoreapp3.1\6-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\obj\Debug\netcoreapp3.1\6-CaracteresETextos.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\obj\Debug\netcoreapp3.1\6-CaracteresETextos.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\6-CaracteresETextos\obj\Debug\netcoreapp3.1\6-CaracteresETextos.genruntimeconfig.cache

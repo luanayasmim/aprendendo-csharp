@@ -1,0 +1,13 @@
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\bin\Debug\netcoreapp3.1\10-Escopo.exe
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\bin\Debug\netcoreapp3.1\10-Escopo.deps.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\bin\Debug\netcoreapp3.1\10-Escopo.runtimeconfig.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\bin\Debug\netcoreapp3.1\10-Escopo.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\bin\Debug\netcoreapp3.1\10-Escopo.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\bin\Debug\netcoreapp3.1\10-Escopo.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\obj\Debug\netcoreapp3.1\10-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\obj\Debug\netcoreapp3.1\10-Escopo.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\obj\Debug\netcoreapp3.1\10-Escopo.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\obj\Debug\netcoreapp3.1\10-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\obj\Debug\netcoreapp3.1\10-Escopo.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\obj\Debug\netcoreapp3.1\10-Escopo.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\10-Escopo\obj\Debug\netcoreapp3.1\10-Escopo.genruntimeconfig.cache

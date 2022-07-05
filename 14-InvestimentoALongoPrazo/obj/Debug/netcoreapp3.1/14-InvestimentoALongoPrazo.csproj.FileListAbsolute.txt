@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\bin\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.exe
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\bin\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.deps.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\bin\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.runtimeconfig.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\bin\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\bin\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\bin\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\obj\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\obj\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\obj\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\obj\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\obj\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\obj\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\obj\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.genruntimeconfig.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\14-InvestimentoALongoPrazo\obj\Debug\netcoreapp3.1\14-InvestimentoALongoPrazo.csproj.AssemblyReference.cache

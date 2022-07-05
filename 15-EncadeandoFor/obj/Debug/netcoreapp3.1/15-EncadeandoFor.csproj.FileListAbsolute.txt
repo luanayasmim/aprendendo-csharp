@@ -1,0 +1,13 @@
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\bin\Debug\netcoreapp3.1\15-EncadeandoFor.exe
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\bin\Debug\netcoreapp3.1\15-EncadeandoFor.deps.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\bin\Debug\netcoreapp3.1\15-EncadeandoFor.runtimeconfig.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\bin\Debug\netcoreapp3.1\15-EncadeandoFor.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\bin\Debug\netcoreapp3.1\15-EncadeandoFor.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\bin\Debug\netcoreapp3.1\15-EncadeandoFor.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\obj\Debug\netcoreapp3.1\15-EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\obj\Debug\netcoreapp3.1\15-EncadeandoFor.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\obj\Debug\netcoreapp3.1\15-EncadeandoFor.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\obj\Debug\netcoreapp3.1\15-EncadeandoFor.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\obj\Debug\netcoreapp3.1\15-EncadeandoFor.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\obj\Debug\netcoreapp3.1\15-EncadeandoFor.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\15-EncadeandoFor\obj\Debug\netcoreapp3.1\15-EncadeandoFor.genruntimeconfig.cache
