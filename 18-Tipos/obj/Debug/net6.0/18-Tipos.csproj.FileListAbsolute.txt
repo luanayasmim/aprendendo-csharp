@@ -1,0 +1,15 @@
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\bin\Debug\net6.0\18-Tipos.exe
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\bin\Debug\net6.0\18-Tipos.deps.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\bin\Debug\net6.0\18-Tipos.runtimeconfig.json
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\bin\Debug\net6.0\18-Tipos.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\bin\Debug\net6.0\18-Tipos.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\18-Tipos.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\18-Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\18-Tipos.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\18-Tipos.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\18-Tipos.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\18-Tipos.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\refint\18-Tipos.dll
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\18-Tipos.pdb
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\18-Tipos.genruntimeconfig.cache
+C:\Users\lylourenco\source\repos\AprendendoCSharp\18-Tipos\obj\Debug\net6.0\ref\18-Tipos.dll
