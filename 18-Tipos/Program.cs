@@ -1,6 +1,7 @@
 ﻿using _18_Tipos;
 using static System.Console;
 
+//-------------------------------------------------------------------------------------------------------------------------------------------
 /*
     Criar um ConsoleApplication que receba um valor inteiro na Main;
     Criar um método void que receba esse inteiro e altere o seu valor para qualquer outro;
@@ -24,7 +25,7 @@ static int Retornar(int x){
 int b=1;
 b=Retornar(b); //Substituindo o valor
 WriteLine($"Utilizando o return: {b}");
-//---------------------------------------------------------------
+//-------------------------------------------------------------------------------------------------------------------------------------------
 /*
     Criar uma Console Application e uma classe Pessoa com os seguintes atributo:
         1)Nome
@@ -82,7 +83,7 @@ static StrucPessoa TrocaIdade(StrucPessoa sp, int idadeNovo){
     return sp;
 }
 
-//---------------------------------------------------------------
+//-------------------------------------------------------------------------------------------------------------------------------------------
 /*
     Criar um Console Application com uma variável do tipo string e atribua um nome à esta variável.
     Criar um método void que receba essa variável e altere esse valor;
@@ -99,3 +100,30 @@ static string ChangeName(string name, string newName){
     name=newName;
     return newName;
 }
+
+//-------------------------------------------------------------------------------------------------------------------------------------------
+/*
+    Criar um Console Application com uma variável do tipo array de int para armazenar os números pares de 0 à 8.
+    Criar um método void que receba essa variável e altere o contéudo desse array para que ele fique armazenado o próximo número inteiro ímpar de cada elemento;
+    No Main, escreva no terminal todos os números desse array.
+*/
+
+//Reference type - Array int
+int[] numPares = new int[]{0, 2, 4 ,6 ,8};
+
+MudarParaImpar(numPares);
+
+WriteLine($"O ímpares são: {string.Join(", ", numPares)}");
+
+static void MudarParaImpar(int[] pares){
+    for (int i = 0; i < pares.Length; i++)
+    {
+        pares[i] ++;
+    }
+}
+
+//-------------------------------------------------------------------------------------------------------------------------------------------
+/*
+    Criar um Console Application para encontra um número inteiro em um array
+    Criar um Console Application para encontrar uma pessoa em uma Lista de Pessoas
+*/
