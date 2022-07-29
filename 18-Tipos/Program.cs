@@ -88,3 +88,14 @@ static StrucPessoa TrocaIdade(StrucPessoa sp, int idadeNovo){
     Criar um método void que receba essa variável e altere esse valor;
     No main, escreva no terminal o valor alterado.
 */
+
+//O tipo string é reference type, porém se comporta como value type
+string name="Yasmim";
+
+name = ChangeName(name, "Luana");
+WriteLine($"O nome é: {name}");
+
+static string ChangeName(string name, string newName){
+    name=newName;
+    return newName;
+}
