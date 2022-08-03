@@ -272,4 +272,9 @@ System.Console.WriteLine($"Array original : {string.Join(", ", arrayDistinct)} |
     dotnet run
 */
 
+//Operador condicional ternário
 
+double media = 8;
+string resultado = "Olá aluno, você foi ";
+resultado += media >= 7 ? "aprovado." : "reprovado.";
+Console.WriteLine(resultado);

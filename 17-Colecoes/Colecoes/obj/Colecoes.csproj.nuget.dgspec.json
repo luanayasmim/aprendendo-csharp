@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lylourenco\\source\\repos\\Colecoes\\Colecoes\\Colecoes.csproj": {}
+    "C:\\Users\\lylourenco\\source\\repos\\AprendendoCSharp\\17-Colecoes\\Colecoes\\Colecoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lylourenco\\source\\repos\\Colecoes\\Colecoes\\Colecoes.csproj": {
+    "C:\\Users\\lylourenco\\source\\repos\\AprendendoCSharp\\17-Colecoes\\Colecoes\\Colecoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lylourenco\\source\\repos\\Colecoes\\Colecoes\\Colecoes.csproj",
+        "projectUniqueName": "C:\\Users\\lylourenco\\source\\repos\\AprendendoCSharp\\17-Colecoes\\Colecoes\\Colecoes.csproj",
         "projectName": "Colecoes",
-        "projectPath": "C:\\Users\\lylourenco\\source\\repos\\Colecoes\\Colecoes\\Colecoes.csproj",
+        "projectPath": "C:\\Users\\lylourenco\\source\\repos\\AprendendoCSharp\\17-Colecoes\\Colecoes\\Colecoes.csproj",
         "packagesPath": "C:\\Users\\lylourenco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lylourenco\\source\\repos\\Colecoes\\Colecoes\\obj\\",
+        "outputPath": "C:\\Users\\lylourenco\\source\\repos\\AprendendoCSharp\\17-Colecoes\\Colecoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
