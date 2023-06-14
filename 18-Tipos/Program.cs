@@ -6,7 +6,10 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+       
     }
+
+    
 
 //-------------------------------------------------------------------------------------------------------------------------------------------
 /*
@@ -224,4 +227,66 @@ SP2 Idade: {sp2.Idade}");
             return false;
         }
     }
+
+//-------------------------------------------------------------------------------------------------------------------------------------------
+//Aula 3
+    static void Demo6(){
+        Humano humano = new Humano();
+        humano.Nome="Natália";
+        humano.Idade=18;
+        humano.EnderecoHumano=new Endereco(){
+            Rua="Mandioca",
+            Num=987,
+            Bairro="São Marcos",
+            Cidade="Itapecerica da Selva"
+        };
+
+        WriteLine(humano.EnderecoHumano.Rua);
+    }
+
+//-------------------------------------------------------------------------------------------------------------------------------------------
+//Aula 4 - Comparando valores e referencias
+    static void Demo7(){
+         //Comparando TypeOf
+        int a = 2;
+        int b = 2;
+
+        //Operação ternária
+        bool teste = a==b ? teste=true : teste=false;
+
+        WriteLine(teste); //True
+        
+        //Comparando ReferenceType
+        Numero x = new Numero(5);
+        Numero y = new Numero(5);
+
+        bool comparacao = y==x ? comparacao=true : comparacao=false;
+
+        WriteLine(comparacao); //False
+        
+        //Para fazer a comparação do valor dos números é necessario especificar
+
+        if(x.Num==y.Num){
+            WriteLine("Os números são iguais");
+        }else{
+            WriteLine("Os números se diferem");
+        }
+    }
+
+    class Numero
+    {
+        public int Num { get; set; }
+        public Numero(int num)
+        {
+            Num=num;
+        }
+    }
+
+//-------------------------------------------------------------------------------------------------------------------------------------------
+//Aula 5
+/*
+    Garbage Collector
+        Suporte para a criação e destruição de objetos na HEAP
+        Cuida da Segurança, liberação da memória.
+*/
 }
